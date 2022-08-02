@@ -4,6 +4,8 @@
 
 ![](https://img.shields.io/stackexchange/stackoverflow/r/10542487?color=orange&label=reputation&logo=stackoverflow&style=for-the-badge&cacheSeconds=86400)
 
+[![<user_name>'s Stack Overflow Reputation](https://img.shields.io/stackexchange/stackoverflow/r/10542487?color=orange&label=reputation&logo=stackoverflow&style=for-the-badge)](https://stackoverflow.com/users/10542487 "<user_name>'s Stack Overflow Reputation")
+
 <!--
 **matiasg77/matiasg77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
