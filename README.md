@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Linkedin: matiasg](https://img.shields.io/badge/-matiasg-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matiasg/)](https://www.linkedin.com/in/matiasg/)
+
 <!--
 **matiasg77/matiasg77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
