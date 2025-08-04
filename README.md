@@ -37,6 +37,7 @@ As a **solutions architect**, I specialize in designing end-to-end architectures
 - BPM Integration
 
 ### 🤖 AI, NLP & Automation
+- **AI & MCP**: Model Context Protocol (MCP), AI Agent Integration
 - IBM Watson Assistant · Google Dialogflow · Amazon Lex · Microsoft QnA Maker  
 - Sentiment Analysis · Intent Classification · Chatbot Orchestration  
 - **Automation Tools:** Make.com · n8n · Retool.com
