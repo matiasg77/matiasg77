@@ -1,17 +1,35 @@
 # 👋 Hi, I'm Matías Goncalves  
 
-**CTO & Technical Founder | Cloud Architect | Fintech & Business Rules Specialist**
+**CTO & Technical Founder | AI-First Architect | Cloud & Fintech Specialist**
 
 ---
 
 ## 🧩 About Me
 
-I’m a hands-on technology leader with 25+ years of experience designing, building, and scaling software platforms for highly regulated industries.  
-My expertise bridges **deep engineering** with **strategic business leadership**, enabling the creation of secure, compliant, and scalable solutions.
+I’m a hands-on technology leader with 25+ years of experience designing, building, and scaling software platforms in highly regulated environments.  
+My background includes over 10 years in leading banks, combining corporate discipline with a startup execution mindset.
 
-I’ve founded and led technology companies, architected SEC-regulated fintech platforms from scratch, and delivered enterprise-grade business rules solutions for major banks and corporations in Latin America.
+I specialize in building **AI-native, cloud-based systems** that operate at scale while meeting strict regulatory and cybersecurity requirements.
 
-As a **solutions architect**, I specialize in designing end-to-end architectures that integrate multiple cloud environments, automation tools, and enterprise-grade decisioning systems. I excel in translating complex business requirements into scalable, high-performance technical designs that deliver measurable value.
+As CTO of a U.S.-regulated fintech, I architected and led the development of a **SEC-compliant robo-advisor platform from scratch**, deployed across AWS and GCP, integrating with custodians such as Apex Clearing and Interactive Brokers.
+
+Today, I operate under an **AI-first engineering paradigm**, where AI is embedded across the entire software lifecycle. I actively use **Claude Code** as a core development layer to accelerate delivery, improve code quality, and increase engineering leverage.
+
+My focus is shifting teams from traditional development models to **AI-augmented execution systems**, where engineers prioritize architecture, decision-making, and problem-solving, while AI enhances speed, consistency, and output.
+
+---
+
+## 🧠 AI-First Engineering
+
+I leverage **Claude Code** as a central interface for engineering workflows:
+
+- Accelerating development cycles and reducing time-to-production  
+- Improving code quality through AI-assisted generation and review  
+- Rapid prototyping and validation of technical solutions  
+- Automating repetitive and low-leverage engineering tasks  
+- Increasing team autonomy and output without linear scaling  
+
+This approach transforms engineering organizations into **AI-augmented systems**, optimizing for speed, leverage, and architectural clarity.
 
 ---
 
@@ -24,40 +42,52 @@ As a **solutions architect**, I specialize in designing end-to-end architectures
 - **Containerization & Orchestration:** Docker · Kubernetes  
 - **IaC & Automation:** Terraform · AWS CloudFormation · Serverless Framework  
 - **CI/CD & Code Repositories:** GitHub Actions · GitLab · Bitbucket  
-- **Collaboration & Project Management:** Jira · Confluence · Scrum
+- **Collaboration & Project Management:** Jira · Confluence · Scrum  
 
 ### 💻 Programming & Development
 - **Languages:** Java · Node.js · JavaScript (ES6+) · TypeScript · SQL · Bash/Shell  
 - **Frameworks & Libraries:** Spring Boot · Express.js · React.js · Next.js · Redux · Material UI · TailwindCSS  
-- **API Design:** REST API Development · API-First Design · Event-Driven Architecture
+- **API Design:** REST APIs · API-First Design · Event-Driven Architecture  
 
 ### ⚙️ Business Rules & Decisioning
-- IBM Operational Decision Manager (ODM) · Business Rules Management Systems (BRMS)  
+- IBM Operational Decision Manager (ODM) · BRMS  
 - Decision Services · Rule Authoring · Testing & Validation  
-- BPM Integration
+- BPM Integration  
 
 ### 🤖 AI, NLP & Automation
-- **AI & MCP**: Model Context Protocol (MCP), AI Agent Integration
+- **AI-First Development:** Claude Code (AI-augmented engineering workflows)  
+- **AI Architecture:** MCP (Model Context Protocol), AI Agents, LLM integration  
 - IBM Watson Assistant · Google Dialogflow · Amazon Lex · Microsoft QnA Maker  
 - Sentiment Analysis · Intent Classification · Chatbot Orchestration  
-- **Automation Tools:** Make.com · n8n · Retool.com
+- **Automation:** Make.com · n8n · Retool  
 
 ### 🗄 Databases & Analytics
-- Relational: PostgreSQL · MySQL · Oracle DB  
-- NoSQL: Cloudant · MongoDB · Redis  
-- Analytics & BI: AWS QuickSight · Google BigQuery · Athena
+- Relational: PostgreSQL · MySQL · Oracle  
+- NoSQL: MongoDB · Redis · Cloudant  
+- Analytics & BI: AWS QuickSight · Athena · BigQuery  
 
 ---
 
 ## 🚀 Technical Highlights
 
-- **Architected** a SEC-regulated robo-advisor platform from scratch (AWS/GCP).  
-- **Designed & deployed** a multi-tenant SaaS platform for AI-powered chatbots (IBM Cloud → AWS migration).  
-- **Led** enterprise-scale IBM ODM implementations for major banks in LatAm.  
-- **Built & scaled** distributed engineering teams delivering event-driven fintech infrastructure.  
-- **Integrated** cloud, automation, and decisioning technologies into unified, scalable architectures.
+- **Architected** a SEC-regulated robo-advisor platform from scratch (AWS/GCP)  
+- **Led** AI-driven engineering transformation adopting Claude Code across workflows  
+- **Designed & deployed** a multi-tenant AI SaaS platform (IBM Cloud → AWS migration)  
+- **Built** high-performance distributed systems with event-driven architectures  
+- **Delivered** enterprise-scale IBM ODM solutions for leading banks in LatAm  
+- **Integrated** cloud, AI, automation, and decisioning systems into unified platforms  
+
+---
+
+## 🎯 Focus
+
+- AI-first software engineering  
+- AI-augmented development teams  
+- Cloud-native fintech architectures  
+- Regulatory-compliant systems (SEC, financial services)  
+- Scalable, high-leverage engineering organizations  
 
 ---
 
 📫 **Let’s connect:**  
-[LinkedIn](https://www.linkedin.com/in/matiasg/)
+[LinkedIn](https://www.linkedin.com/in/matiasg/)  
